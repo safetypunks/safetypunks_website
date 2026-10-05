@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://safetypunks.github.io/safetypunks_website/sitemap.xml

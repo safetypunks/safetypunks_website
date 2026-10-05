@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Safety Punks</title>
+    <link href="https://safetypunks.github.io/safetypunks_website/feed.xml" rel="self" />
+    <link href="https://safetypunks.github.io/safetypunks_website" />
+    <updated>2026-10-03T18:48:59-04:00</updated>
+    <author>
+        <name>Michael</name>
+    </author>
+    <id>https://safetypunks.github.io/safetypunks_website</id>
+
+    <entry>
+        <title>Sample Post</title>
+        <author>
+            <name>Michael</name>
+        </author>
+        <link href="https://safetypunks.github.io/safetypunks_website/sample-post.html"/>
+        <id>https://safetypunks.github.io/safetypunks_website/sample-post.html</id>
+            <category term="Safety"/>
+
+        <updated>2026-10-03T18:48:39-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    This is a post about hard hats and safety PPE
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    This is a post about hard hats and safety PPE
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
