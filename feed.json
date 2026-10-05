@@ -5,25 +5,10 @@
     "home_page_url": "https://safetypunks.com",
     "feed_url": "https://safetypunks.com/feed.json",
     "user_comment": "",
-    "icon": "https://safetypunks.com/media/website/mosher_index_red-2.png",
+    "icon": "https://safetypunks.com/media/website/mosher_index_red.png",
     "author": {
         "name": "Michael"
     },
     "items": [
-        {
-            "id": "https://safetypunks.com/sample-post.html",
-            "url": "https://safetypunks.com/sample-post.html",
-            "title": "Sample Post",
-            "summary": "This is a post about hard hats and safety PPE",
-            "content_html": "\n  <p>\n    This is a post about hard hats and safety PPE\n  </p>",
-            "author": {
-                "name": "Michael"
-            },
-            "tags": [
-                   "Safety"
-            ],
-            "date_published": "2026-10-03T18:48:39-04:00",
-            "date_modified": "2026-10-03T18:48:59-04:00"
-        }
     ]
 }
