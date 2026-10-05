@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://safetypunks.github.io/safetypunks_website/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://safetypunks.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://safetypunks.github.io/safetypunks_website/</loc>
+<loc>https://safetypunks.com/</loc>
 </url>
 <url>
-<loc>https://safetypunks.github.io/safetypunks_website/about.html</loc>
+<loc>https://safetypunks.com/about.html</loc>
 <lastmod>2026-10-03T15:12:10-04:00</lastmod>
 </url>
 <url>
-<loc>https://safetypunks.github.io/safetypunks_website/resources.html</loc>
+<loc>https://safetypunks.com/resources.html</loc>
 <lastmod>2026-10-03T15:16:02-04:00</lastmod>
 </url>
 <url>
-<loc>https://safetypunks.github.io/safetypunks_website/safety-punks.html</loc>
+<loc>https://safetypunks.com/safety-punks.html</loc>
 <lastmod>2026-10-03T18:49:15-04:00</lastmod>
 </url>
 <url>
-<loc>https://safetypunks.github.io/safetypunks_website/sample-post.html</loc>
+<loc>https://safetypunks.com/sample-post.html</loc>
 <lastmod>2026-10-03T18:48:59-04:00</lastmod>
 </url>
 </urlset>

@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Safety Punks",
     "description": "",
-    "home_page_url": "https://safetypunks.github.io/safetypunks_website",
-    "feed_url": "https://safetypunks.github.io/safetypunks_website/feed.json",
+    "home_page_url": "https://safetypunks.com",
+    "feed_url": "https://safetypunks.com/feed.json",
     "user_comment": "",
-    "icon": "https://safetypunks.github.io/safetypunks_website/media/website/mosher_index_red-2.png",
+    "icon": "https://safetypunks.com/media/website/mosher_index_red-2.png",
     "author": {
         "name": "Michael"
     },
     "items": [
         {
-            "id": "https://safetypunks.github.io/safetypunks_website/sample-post.html",
-            "url": "https://safetypunks.github.io/safetypunks_website/sample-post.html",
+            "id": "https://safetypunks.com/sample-post.html",
+            "url": "https://safetypunks.com/sample-post.html",
             "title": "Sample Post",
             "summary": "This is a post about hard hats and safety PPE",
             "content_html": "\n  <p>\n    This is a post about hard hats and safety PPE\n  </p>",
